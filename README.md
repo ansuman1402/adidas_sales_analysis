@@ -23,5 +23,11 @@ some valuable findings, their MVP that sold the most, and some of the weak categ
 2. We look for the top revenue-generating cities/states, with the most sold product.
 3. We will also look for the buying pattern, and the most bought product by men/women.
 
+## The Power BI Dashboard:-
+
+https://github.com/ansuman1402/adidas_sales_analysis/assets/63310882/4cf6a0a5-ccec-43c8-995c-0e7c6c1aa9d4
+
+
+
 ## Goal of the project:-
 To present with as much insight as can be delivered from the dataset provided.
